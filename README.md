@@ -1,23 +1,9 @@
-# Rslib project
+# LLM Typo
 
-## Setup
+A CLI tool to detect typos in code changes using LLM.
 
-Install the dependencies:
-
-```bash
-pnpm install
-```
-
-## Get started
-
-Build the library:
+## Usage
 
 ```bash
-pnpm build
-```
-
-Build the library in watch mode:
-
-```bash
-pnpm dev
+pnpx llm-typo
 ```
